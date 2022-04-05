@@ -11,9 +11,7 @@ spring:
   h2:
     console:
       enabled: true
-  cloud:
-    config:
-      enabled: false
+ 
   # ===============================
   # DB
   # ===============================
